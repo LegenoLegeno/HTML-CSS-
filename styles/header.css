@@ -1,0 +1,79 @@
+.header{
+    background-color: black;
+    color: white;
+}
+
+.넷플로고{
+    position: absolute;
+    top: 3%;
+    left: 3%;
+    width: 100px;
+    cursor: pointer;
+}
+
+.메인이미지{
+    width: 100%;
+    height: auto;
+    position: static;
+}
+
+.진격의거인{
+    position: absolute;
+    top: 20%;
+    left: 3px;
+    width: 500px;
+}
+
+.Play_button{
+    position: absolute;
+    width: 100px;
+    height: auto;
+    top: 45%;
+    left: 80px;
+    font-size: 20px;
+    margin-right: 10px;
+    margin-left: 10px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    font-family: Helvetica, sans-serif;
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+    color: #ffffff;
+    background-color: #6d6d6eb3
+}
+.Play_button:hover{
+    opacity: 0.5;
+}
+
+.My_List{
+    position: absolute;
+    width: 100px;
+    height: auto;
+    top: 45%;
+    left: 14%;
+    font-size: 20px;
+    margin-right: 10px;
+    margin-left: 10px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    font-family: Helvetica, sans-serif;
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+    color: #ffffff;
+    background-color: #6d6d6eb3;
+}
+.My_List:hover{
+    opacity: 0.5;
+}
+
+.설명란{
+    position: absolute;
+    top: 52%;
+    left: 5%;
+    font-family:Helvetica, sans-serif;
+    font-size: 18px;
+    font-weight: 400;
+
+}
